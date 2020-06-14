@@ -10,6 +10,7 @@ namespace R5T.T0006
         public const string IsPackable = "IsPackable";
         public const string ItemGroup = "ItemGroup";
         public const string LanguageVersion = "LangVersion";
+        public const string NoWarn = "NoWarn";
         public const string OutputType = "OutputType";
         public const string PackageReference = "PackageReference";
         public const string Project = "Project";
