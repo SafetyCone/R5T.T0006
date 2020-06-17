@@ -32,7 +32,7 @@ namespace R5T.T0006
 
         public static string FormatLanguageVersion(Version languageVersion)
         {
-            var languageVersionString = $"{languageVersion.Major}:{languageVersion.Minor}";
+            var languageVersionString = $"{languageVersion.Major}.{languageVersion.Minor}";
             return languageVersionString;
         }
 
